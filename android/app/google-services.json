@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537966363253",
+    "firebase_url": "https://gh-census.firebaseio.com",
+    "project_id": "gh-census",
+    "storage_bucket": "gh-census.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537966363253:android:eca492b29672f254f9ae3c",
+        "android_client_info": {
+          "package_name": "com.example.ghcensusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537966363253-s8fea445hhsdhmqvuln8fe763vh9o1q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASC2kWbfcKW0NUZiSFjQH07a3AFRtqiM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537966363253-s8fea445hhsdhmqvuln8fe763vh9o1q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
